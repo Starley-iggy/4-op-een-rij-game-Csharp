@@ -1,4 +1,4 @@
-# 🟡🔴 4-op-een-rij game in C#
+# 🟡🔴 4 op een rij game in C#
 
 ![Language](https://img.shields.io/badge/language-C%23-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
